@@ -6,7 +6,7 @@ If you are copying this code or forking this repo, please give a credit of my na
 
 **Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 
-- [Protfolio-Preview](https://goodfriend-ai.github.io/)
+- [Protfolio-Preview](https://3-d-rendering-portfolio.vercel.app/)
 
 ## License
 
