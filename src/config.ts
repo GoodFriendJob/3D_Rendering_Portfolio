@@ -30,7 +30,7 @@ export const config = {
             technologies: ["Python", "TypeScript", "LangChain", "LangGraph", "OpenAI API", "Anthropic API", "MCP", "Next.js", "FastAPI", "PostgreSQL", "Pinecone", "Docker", "AWS"]
         },
         {
-            position: "Senior AI Automation and Agents Developer",
+            position: "Backend Developer",
             company: "Denvar flight LLC",
             period: "Nov 2023 - Jan 2026",
             location: "Remote - Kansas, United State",
