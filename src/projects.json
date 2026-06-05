@@ -1,0 +1,94 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Novaco — AI Agents for Automotive Dealerships",
+      "category": "AI / LLM Agents",
+      "description": "Built an AI platform that automates customer interactions and back-office operations for automotive dealerships. LLM-powered agents handle inbound inquiries, qualify leads, book appointments, and manage conversations 24/7 — wired directly into dealership systems so sales and service teams stop losing time on repetitive messaging and never miss a lead.",
+      "tags": ["AI Agents", "Conversational AI", "LLM Automation", "Lead Qualification", "Customer Support Automation", "Appointment Booking"],
+      "tools": ["OpenAI API", "Anthropic API", "LangChain", "LangGraph", "Python", "FastAPI", "PostgreSQL", "Pinecone", "Docker"],
+      "skills": ["LLM Agent Development", "Multi-Agent Orchestration", "RAG Pipelines", "API Integration", "Prompt Engineering", "Workflow Automation"],
+      "industry": "Automotive"
+    },
+    {
+      "id": 2,
+      "title": "RedxChess — Neural-Network Chess Engine",
+      "category": "AI / Game Engine",
+      "description": "Designed a strong custom chess engine with neural-network-based position evaluation and highly optimized bitboard move generation. Implements modern search — alpha-beta with quiescence, null-move pruning, and late-move reductions — behind a standard UCI interface, so it plugs into any chess GUI and plays at a competitive level.",
+      "tags": ["Chess Engine", "Neural Network Evaluation", "Game AI", "Search Algorithms", "Bitboards", "UCI Protocol"],
+      "tools": ["Python", "C++", "PyTorch", "NumPy"],
+      "skills": ["Neural Network Design", "Algorithm Optimization", "Game AI Development", "Performance Engineering", "Systems Programming"],
+      "industry": "Gaming"
+    },
+    {
+      "id": 3,
+      "title": "Navispace — Open-Innovation Platform",
+      "category": "Innovation Platform",
+      "description": "Delivered front-end engineering for Navispace's open-innovation platform that connects startups and enterprises through event-driven programs and global collaboration tools. Built responsive, accessible interfaces with Office 365 integration to support large-scale, cross-organization innovation programs.",
+      "tags": ["Front-End Development", "Responsive Design", "Collaboration Platform", "Office 365 Integration", "Web Application"],
+      "tools": ["HTML5", "CSS3", "JavaScript", "Office 365 API"],
+      "skills": ["Front-End Engineering", "Responsive UI Development", "Web Accessibility", "Third-Party API Integration"],
+      "industry": "Innovation / Enterprise Software"
+    },
+    {
+      "id": 4,
+      "title": "VoteChain — On-Chain Voting dApp",
+      "category": "Blockchain / dApp",
+      "description": "Built secure, transparent on-chain voting for communities and organizations. Configurable ballots, real-time reporting, and tamper-proof auditable results backed by Ethereum smart contracts, with ballot data stored on IPFS and one-click wallet authentication via MetaMask.",
+      "tags": ["Blockchain", "dApp", "On-Chain Voting", "Smart Contracts", "Decentralized Storage", "Web3"],
+      "tools": ["Solidity", "Web3.js", "React", "Ethereum", "IPFS", "MetaMask", "Node.js"],
+      "skills": ["Smart Contract Development", "dApp Architecture", "Web3 Integration", "Front-End Development", "Decentralized Storage"],
+      "industry": "Blockchain / Civic Tech"
+    },
+    {
+      "id": 5,
+      "title": "Barbell Medicine — E-commerce & AI Support",
+      "category": "E-commerce / Education",
+      "description": "Contributed platform engineering to Barbell Medicine's strength-training education and e-commerce site, including WooCommerce features and an AI chatbot for customer support. Delivered scalable WordPress architecture that handles high traffic and a growing product and content catalog.",
+      "tags": ["E-commerce", "WordPress Development", "AI Chatbot", "Online Payments", "Content Platform"],
+      "tools": ["WordPress", "WooCommerce", "PHP", "MySQL", "JavaScript", "Stripe", "OpenAI API"],
+      "skills": ["E-commerce Development", "WordPress Engineering", "Chatbot Integration", "Payment Integration", "Performance Optimization"],
+      "industry": "Health & Fitness / E-commerce"
+    },
+    {
+      "id": 6,
+      "title": "CoverLetterGPT — AI Cover-Letter SaaS",
+      "category": "AI SaaS / Career Tools",
+      "description": "Shipped a full-stack AI SaaS that generates personalized cover letters from a job description and resume in seconds. Built on the Wasp framework with GPT-4 generation, Stripe subscription billing, and a React job-management UI — a complete, monetized product from idea to live paying users.",
+      "tags": ["AI SaaS", "Full-Stack Development", "GPT-4 Integration", "Subscription Billing", "Career Tools", "Generative AI"],
+      "tools": ["Wasp", "React", "Node.js", "PostgreSQL", "OpenAI GPT-4", "Chakra UI", "Stripe", "TypeScript"],
+      "skills": ["Full-Stack Development", "SaaS Architecture", "LLM Integration", "Payment & Subscription Systems", "Product Engineering"],
+      "industry": "SaaS / Career Tech"
+    },
+    {
+      "id": 7,
+      "title": "CertOnce — AI + Blockchain Credential Verification",
+      "category": "AI + Blockchain",
+      "description": "Led architecture and engineering for CertOnce's tamper-proof certificate platform, combining AI document validation with on-chain verification on Ethereum and Hyperledger. Owned scalability, security, and infrastructure decisions end-to-end, giving issuers and verifiers instant, fraud-proof credential checks through the company's early-stage growth.",
+      "tags": ["AI + Blockchain", "Document Verification", "Smart Contracts", "Tamper-Proof Credentials", "System Architecture", "Security"],
+      "tools": ["Solidity", "Ethereum", "Hyperledger", "Python", "Node.js", "IPFS", "Smart Contracts"],
+      "skills": ["Solution Architecture", "Smart Contract Development", "AI Document Analysis", "Blockchain Engineering", "Security & Scalability Design"],
+      "industry": "Credential Verification / FinTech"
+    },
+    {
+      "id": 8,
+      "title": "Phoenix — Voice-Controlled Desktop AI Assistant",
+      "category": "AI Desktop Assistant",
+      "description": "Built a JARVIS-inspired desktop AI assistant that runs locally. Voice-activated system control, task management, natural-language query answering, and workflow automation in a single agent — combining speech recognition, the OpenAI API, and direct OS automation for hands-free productivity.",
+      "tags": ["AI Assistant", "Voice Control", "Speech Recognition", "Desktop Automation", "Workflow Automation", "Productivity"],
+      "tools": ["Python", "Speech Recognition", "PyAutoGUI", "OpenAI API", "Tkinter"],
+      "skills": ["AI Application Development", "Voice Interface Design", "Desktop Automation", "LLM Integration", "Python Engineering"],
+      "industry": "Productivity / Consumer Software"
+    },
+    {
+      "id": 9,
+      "title": "Ceiling & Drylining Supplies — B2B E-commerce",
+      "category": "E-commerce",
+      "description": "Built a UK construction-supplies e-commerce platform on Shopify covering drylining, ceilings, insulation, and tools. B2B trade accounts, bulk ordering, integrated payment gateways, inventory management, and nationwide delivery across a multi-brand product catalog.",
+      "tags": ["E-commerce", "Shopify Development", "B2B Commerce", "Inventory Management", "Online Payments", "Trade Accounts"],
+      "tools": ["Shopify", "Liquid", "JavaScript", "Payment Gateways"],
+      "skills": ["E-commerce Development", "Shopify Engineering", "B2B Commerce Setup", "Inventory & Catalog Management", "Payment Integration"],
+      "industry": "Construction / Building Supplies"
+    }
+  ]
+}
