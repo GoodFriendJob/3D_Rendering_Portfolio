@@ -1,8 +1,6 @@
 import {
-  FaDailymotion,
   FaDiscord,
   FaGithub,
-  FaLink,
   FaMicrosoft,
   FaSlack,
 } from "react-icons/fa6";
